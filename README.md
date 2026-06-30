@@ -398,6 +398,24 @@ For a valid challenge submission, include:
   - job logs with report/source/trace paths
 - blog post of at least 600 words tagged `#NebiusServerlessChallenge`
 
+## Nebius Deployment
+
+The screenshots below show the Nebius Serverless AI Endpoint and Job used
+during the project demo. Public network values and cloud resource identifiers
+are hidden.
+
+### Serverless AI Endpoint
+
+![Nebius Serverless AI endpoint running](docs/assets/nebius-endpoint-overview.png)
+
+### Endpoint Inference Logs
+
+![Nebius Serverless AI endpoint inference logs](docs/assets/nebius-endpoint-logs.png)
+
+### Serverless AI Job
+
+![Nebius Serverless AI job completed](docs/assets/nebius-job-completed.png)
+
 ## License
 
 MIT. See `LICENSE`.
